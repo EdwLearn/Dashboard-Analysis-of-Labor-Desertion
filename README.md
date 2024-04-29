@@ -14,9 +14,12 @@ These key points provide valuable insight to understand the reasons behind job d
 ## Retention Strategies Based on Analysis
 Based on the key findings from our analysis of job attrition, it's evident that we need to implement some retention strategies to address these issues. Here are some recommendations:
 
-**Internal Growth Opportunities**: As the search for new job opportunities is identified as the main reason for leaving the company, we must focus on creating and communicating internal growth and development opportunities. This could involve creating clear progression routes and offering professional development and training programs.
-**Technician Retention:** Since technicians have the highest dropout rate, we need to explore how we can make these roles more attractive. This could involve offering additional training, improving working conditions, or reviewing the compensation and benefits structure for these roles.
+- **Internal Growth Opportunities**: As the search for new job opportunities is identified as the main reason for leaving the company, we must focus on creating and communicating internal growth and development opportunities. This could involve creating clear progression routes and offering professional development and training programs.
+
+- **Technician Retention:** Since technicians have the highest dropout rate, we need to explore how we can make these roles more attractive. This could involve offering additional training, improving working conditions, or reviewing the compensation and benefits structure for these roles.
+  
 **Work Environment:** Although distance to work is not a key factor in attrition, the fact that those who live closer have a higher probability of leaving could point to problems with the work environment. We could consider conducting job satisfaction or engagement surveys to identify and address possible issues.
+
 **Staff Training**: Finally, our data shows that staff who receive training tend to stay with the company. This underlines the need to invest in the training and development of our staff. In addition, we could consider implementing a mentorship program to support new employees and promote retention.
 
 Based on these critical findings, we propose retention strategies focused on creating and communicating opportunities for internal growth, improving conditions for technicians, assessing and improving the work environment, and investing in staff training and development.
