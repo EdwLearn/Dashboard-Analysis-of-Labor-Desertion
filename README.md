@@ -1,4 +1,4 @@
-# Dashboard-Analysis-of-Labor-Desertion
+# Dashboard Analysis of Labor Desertion
 
 Key Point Analysis on Job Desertion
 Through the interactive dashboard, we have been able to identify some patterns and key factors that contribute to job desertion in the company. These key points can help to better understand the reasons behind job desertion and to formulate strategies for its management.
