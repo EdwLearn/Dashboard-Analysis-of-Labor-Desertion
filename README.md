@@ -23,3 +23,7 @@ Based on the key findings from our analysis of job attrition, it's evident that 
 - **Staff Training**: Finally, our data shows that staff who receive training tend to stay with the company. This underlines the need to invest in the training and development of our staff. In addition, we could consider implementing a mentorship program to support new employees and promote retention.
 
 Based on these critical findings, we propose retention strategies focused on creating and communicating opportunities for internal growth, improving conditions for technicians, assessing and improving the work environment, and investing in staff training and development.
+
+https://github.com/EdwLearn/Dashboard-Analysis-of-Labor-Desertion/assets/79411131/69649ad3-724b-4b62-b37e-f6b589e665ae
+
+
