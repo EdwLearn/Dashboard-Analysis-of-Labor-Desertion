@@ -1,35 +1,32 @@
-# Dashboard de Análisis de Deserción Laboral
+# Dashboard Analysis of labor Desertion
 
-Este proyecto presenta un análisis detallado de la deserción laboral en una empresa, utilizando datos extraídos de archivos Excel. El objetivo principal es identificar patrones y factores clave que contribuyen a la deserción de empleados, así como proponer estrategias efectivas de retención.
+This project presents a detailed analysis of labor turnover within a company, utilizing data extracted from Excel files. The main objective is to identify patterns and key factors contributing to employee turnover, as well as to propose effective retention strategies.
 
-## Archivos del Proyecto
+## Project Files
 
-- **Datos de muestra.xlsx**: Este archivo contiene los datos de muestra utilizados para el análisis. Incluye información relevante sobre los empleados, como el puesto, la antigüedad, la capacitación, entre otros.
+- **Sample Data.xlsx**: This file contains sample data used for the analysis. It includes relevant information about employees, such as their position, tenure, training, among others.
 
-- **Datos_Dashboard.xlsx**: En este archivo se encuentran los datos limpios y procesados que se utilizaron para construir el dashboard interactivo. Se realizaron consultas y análisis para identificar tendencias y patrones relacionados con la deserción laboral.
+- **Dashboard Data.xlsx**: This file contains cleaned and processed data used to build the interactive dashboard. Queries and analyses were conducted to identify trends and patterns related to labor turnover.
 
+## Interactive Dashboard
 
-## Dashboard Interactivo
+The interactive dashboard provides a clear and concise visualization of data related to labor turnover within the company. Users can explore different aspects, such as reasons for turnover, profiles of employees most likely to leave the company, and recommended retention strategies.
 
-El dashboard interactivo proporciona una visualización clara y concisa de los datos relacionados con la deserción laboral en la empresa. Los usuarios pueden explorar diferentes aspectos, como las razones de la deserción, los perfiles de los empleados más propensos a abandonar la empresa y las estrategias de retención recomendadas.
+## Instructions for Use
 
-## Instrucciones de Uso
+1. Download the **Sample Data.xlsx** and **Dashboard Data.xlsx** files.
+2. Open the **Dashboard Data.xlsx** file in Excel or another compatible tool.
+3. Explore the interactive dashboard to view the analyses and conclusions of the project.
 
-1. Descarga los archivos **Datos de muestra.xlsx** y **Datos_Dashboard.xlsx**.
-2. Abre el archivo **Datos_Dashboard.xlsx** en Excel u otra herramienta compatible.
-3. Explora el dashboard interactivo para visualizar los análisis y conclusiones del proyecto.
+## Gain Deeper Insight
 
-## Obtén una Comprensión Más Profunda
+For a deeper understanding of this project and a detailed explanation of the analyses and conclusions, we invite you to visit our personal blog where this topic is covered in detail. [Click here to access the blog!](https://edwlearn.super.site/projects/dashboard-analysis-of-labor-desertion)
 
-Para una comprensión más profunda de este proyecto y una explicación detallada de los análisis y conclusiones, te invitamos a visitar nuestro blog personal donde se aborda este tema en detalle. [¡Haz clic aquí para acceder al blog!](https://edwlearn.super.site/projects/dashboard-analysis-of-labor-desertion)
+## Contributions
 
-## Contribuciones
+Contributions are welcome! If you wish to collaborate on this project, you can open an issue or submit a pull request with your suggestions or improvements.
 
-¡Las contribuciones son bienvenidas! Si deseas colaborar en este proyecto, puedes abrir un problema o enviar una solicitud de extracción con tus sugerencias o mejoras.
-
-
-
-¡Gracias por tu interés en nuestro proyecto! Esperamos que este análisis ayude a comprender mejor la deserción laboral y a desarrollar estrategias efectivas de retención de empleados.
+Thank you for your interest in our project! We hope this analysis helps better understand labor turnover and develop effective employee retention strategies.
 
 
 https://github.com/EdwLearn/Dashboard-Analysis-of-Labor-Desertion/assets/79411131/69649ad3-724b-4b62-b37e-f6b589e665ae
